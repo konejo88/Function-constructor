@@ -1,0 +1,33 @@
+.proverka{
+    /* display: flex;
+    flex-direction: row; */
+    /* border: 2px solid black; */
+    width: 25%;
+    height: fit-content;
+    
+}
+.eda{
+    display: flex;
+    flex-direction: row;
+    height: fit-content;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+h2{
+    text-align: center;
+}
+img{
+    text-align: center;
+}
+p{
+    font-size: 18px;
+    text-indent: 20px;
+    margin: 20px;
+}
+h3{
+    text-align: center;
+}
+button{
+    background-color: red;
+    margin: 10px 10px 10px 250px;
+}
